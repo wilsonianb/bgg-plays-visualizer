@@ -1,0 +1,20 @@
+{
+  "name": "bgg-plays-visualizer",
+  "version": "0.0.1",
+  "description": "displays BoardGameGeek user's game plays in treemap",
+  "main": "get_plays.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wilsonianb/bgg-plays-visualizer.git"
+  },
+  "author": "Brandon Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsonianb/bgg-plays-visualizer/issues"
+  },
+  "homepage": "https://github.com/wilsonianb/bgg-plays-visualizer#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "xml2js": "^0.4.12"
+  }
+}
